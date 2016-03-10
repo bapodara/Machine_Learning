@@ -1,0 +1,14 @@
+gender:female
+age:18-24
+ethnicity:Asian
+handedness:right
+finger_type:average
+knuckle_type:average
+nail_type:medium
+hand_size:small
+tip_usage:mixed
+firstname:amanda
+lastname:ko
+email:
+extra_info:
+

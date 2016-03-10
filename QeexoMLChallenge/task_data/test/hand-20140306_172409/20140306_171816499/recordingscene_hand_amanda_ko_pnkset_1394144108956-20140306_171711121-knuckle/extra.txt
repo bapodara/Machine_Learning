@@ -1,0 +1,6 @@
+Tap force name:Normal
+Tap force value:1
+TargetXY:516.0095,96.49982
+Surface:HAND
+Target type:dot
+One handed:no
